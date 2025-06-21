@@ -1,5 +1,9 @@
 # UniProjects
-Various projects I completed during my university program.
+
+#ML #DS #NN #AI #CV #EDA    
+  
+
+Various projects I completed during my university program.  
 
 
 IDSS - EDA/NN/ML/CV.
